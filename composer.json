@@ -1,6 +1,6 @@
 {
     "name": "wardany/dform",
-    "description": "this package generate dynamic form with client and server side validation",
+    "description": "Dynamic form builder is a full module to inject new attributes to any model you want, and you can manipulate this new attributes in the backend, and many other features.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","dynamic form"," form generator"," simple cms"],
     "license": "BSD 3-Clause",

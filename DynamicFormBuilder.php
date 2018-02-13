@@ -27,16 +27,4 @@ class DynamicFormBuilder extends \yii\base\Module
     public $upload_path;
     public $upload_url;
 
-    /**
-     * @inheritdoc
-     */
-    public function init(){
-        parent::init();
-        if ($this->upload_url === null) {
-            throw new InvalidConfigException('"upload_url" property must be set.');
-        }
-        if ($this->upload_path === null) {
-            throw new InvalidConfigException('"upload_path" property must be set.');
-        }
-    }
 }

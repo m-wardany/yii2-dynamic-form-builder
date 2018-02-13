@@ -1,0 +1,18 @@
+/* 
+    Created on : Jan 31, 2018, 12:08:04 PM
+    Author     : Muhammad Wardany <muhammad.wardany@gmail.com>
+*/
+/*** PANEL DEFAULT ***/
+.nav-tabs{
+    margin-bottom: -1px;
+}
+.panel-heading{
+    padding-bottom: 0;
+}
+
+.panel-heading .form-group{
+    margin-bottom: 5px;
+}
+.panel-heading .form-group .help-block{
+    display: inline-block;
+}

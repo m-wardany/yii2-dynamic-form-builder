@@ -1,0 +1,18 @@
+/* 
+    Created on : Feb 4, 2018, 10:30:34 AM
+    Author     : muhammad wardany
+*/
+
+/* Checkbox style */
+/*.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; }
+.toggle.ios .toggle-handle { border-radius: 20px; }*/
+/* end checkbox style */
+
+.nav-tabs .has-error a{
+    color: #a94442 !important ;
+    font-weight: bold;
+}
+
+.tag-editor-tag.active input{
+    border: 1px solid #e5e5e5;
+}

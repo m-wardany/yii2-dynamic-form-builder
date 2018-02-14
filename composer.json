@@ -15,7 +15,6 @@
         "richardfan1126/yii2-sortable-gridview": "*",
         "andrew72ru/yii2-ion-range-slider": "*"
     },
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "wardany\\dform\\": ""
